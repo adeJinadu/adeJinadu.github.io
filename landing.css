@@ -128,7 +128,7 @@
 
 
 
-@media screen and (min-width: 300px) and (max-width: 620px){
+@media only screen and (max-device-width: 500px){
 	.vid{
 		display: none;
 	}
