@@ -159,20 +159,20 @@
 	.rectangle {
 		border-radius: 5px;
 		width: 65%;
-		height: 100px;
+		height: 85px;
 	}
 
 	.rectangle h2{
 		border-radius: 30px;
-		padding-top: 6%;
-		padding-left: 10%;
+		padding-top: 5%;
+		padding-left: 8%;
 		font-size: 2rem;
 		font-weight: normal;
 		color: #00FFFF;	
 	}
 
 	.text{
-		margin-top: 40%;
+		margin-top: 20%;
 		padding-right: 10%;
 	}
 
@@ -182,20 +182,17 @@
 	}
 
 	.text p{
-		font-size: 3rem;
+		font-size: 2.6rem;
 	}
 
 	.button {
 		  background-color: #004aad;
-		  border-radius: 15px;
-		  padding: 50px 70px;
-		  font-size: 65px;
+		  border-radius: 60px;
+		  padding: 15px 30px;
+		  font-size: 50px;
 		  margin: 4px 2px;
-		  
-		  transition: 0.3s;
 		  display: inline-block;
-		  text-decoration: none;
-		
+		  text-decoration: none;		
 	}
 
 }
